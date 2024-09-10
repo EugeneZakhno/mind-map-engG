@@ -13,6 +13,6 @@
     <meta property="og:url" content="https://example.com/">
   </head>
   <body>
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKiZn0-I=/?moveToViewport=-2919,-1159,6374,3064&embedId=329189810263" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKiZn0-I=/?moveToViewport=-6817,-3571,10271,4938&embedId=25522094273" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
   </body>
 </html>
